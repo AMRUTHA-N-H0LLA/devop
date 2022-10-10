@@ -1,2 +1,2 @@
-# devops
+# devop
 training on github
